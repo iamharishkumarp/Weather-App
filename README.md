@@ -15,3 +15,5 @@ Weather-App is a simple web application that allows users to check the current w
 3. Obtain your API key from [OpenWeatherMap API Keys](https://openweathermap.org/api_keys).
 4. Paste your API key in the `script.js` file at the designated location.
 
+
+5. https://weather-application-1762d.web.app/
