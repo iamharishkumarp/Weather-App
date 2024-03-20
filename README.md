@@ -16,4 +16,4 @@ Weather-App is a simple web application that allows users to check the current w
 4. Paste your API key in the `script.js` file at the designated location.
 
 
-5. https://weather-application-1762d.web.app/
+5. View this project [Weather-Application](https://weather-application-1762d.web.app/).
